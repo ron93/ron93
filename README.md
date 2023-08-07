@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ![postgres](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)<br>
 ![mysql](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)<br>
-![csv](https://img.shields.io/badge/Database-CSV-informational?style=flat&logo=csv&logoColor=white&color=2bbc8a)<br>
+![avro](https://img.shields.io/badge/Database-Avro-informational?style=flat&logo=avro&logoColor=white&color=2bbc8a)<br>
 
 
 ![digital ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)<br>
