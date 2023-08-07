@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 ![javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![shell](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)<br>
 
-![kafka](https://img.shields.io/badge/Tool-ApacheKafka-informational?style=flat&logo=ApacheKafka&logoColor=white&color=2bbc8a)
-![spark](https://img.shields.io/badge/Tool-ApacheSpark-informational?style=flat&logo=ApacheSpark&logoColor=white&color=2bbc8a)
+![kafka](https://img.shields.io/badge/Tool-Apache Kafka-informational?style=flat&logo=ApacheKafka&logoColor=white&color=2bbc8a)
+![spark](https://img.shields.io/badge/Tool-Apache Spark-informational?style=flat&logo=ApacheSpark&logoColor=white&color=2bbc8a)
 ![prefect](https://img.shields.io/badge/Tool-Prefect-informational?style=flat&logo=Prefect&logoColor=white&color=2bbc8a)
-![airflow](https://img.shields.io/badge/Tool-ApacheAirflow-informational?style=flat&logo=ApacheAirflow&logoColor=white&color=2bbc8a)
+![airflow](https://img.shields.io/badge/Tool-Apache Airflow-informational?style=flat&logo=ApacheAirflow&logoColor=white&color=2bbc8a)
 ![docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![kubernetes](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![terraform](https://img.shields.io/badge/Tool-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)<br>
