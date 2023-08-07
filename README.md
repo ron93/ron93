@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 ![oracle](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)<br>
 
 
-![digital ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)<br>
+![digital ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![GoogleCloud](https://img.shields.io/badge/Cloud-GoogleCloudPlatform-informational?style=flat&logo=Google&logoColor=white&color=2bbc8a)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
-![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)
+![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=azure&logoColor=white&color=2bbc8a)<br>
 
 
 
