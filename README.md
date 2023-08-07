@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)<br>
 ![ApacheKafka](https://img.shields.io/badge/Tools-ApacheKafka-informational?style=flat&logo=ApacheKafka&logoColor=white&color=2bbc8a)<br>
 ![ApacheSpark](https://img.shields.io/badge/Tools-ApacheSpark-informational?style=flat&logo=ApacheSpark&logoColor=white&color=2bbc8a)<br>
+![Prefect](https://img.shields.io/badge/Tools-Prefect-informational?style=flat&logo=Prefect&logoColor=white&color=2bbc8a)<br>
+![Airflow](https://img.shields.io/badge/Tools-Airflow-informational?style=flat&logo=Airflow&logoColor=white&color=2bbc8a)<br>
 
 
 
