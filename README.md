@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![terraform](https://img.shields.io/badge/Tool-Terraform-informational?style=flat&logo=terraform&logoColor=white&color=2bbc8a)<br>
 
 ![postgres](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![mysql](https://img.shields.io/badge/Database-MySql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![mysql](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![mongodb](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![oracle](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=2bbc8a)<br>
 
