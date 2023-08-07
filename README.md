@@ -22,12 +22,13 @@ Here are some ideas to get you started:
 ![javascript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)<br>
 ![shell](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)<br>
 ![postgres](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)<br>
-![kafka](https://img.shields.io/badge/Code-Kafka-informational?style=flat&logo=kafka&logoColor=white&color=2bbc8a)<br>
 ![docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)<br>
 ![kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)<br>
 ![digital ocean](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)<br>
 ![GoogleCloud](https://img.shields.io/badge/Cloud-GoogleCloudPlatform-informational?style=flat&logo=Google&logoColor=white&color=2bbc8a)<br>
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)<br>
+![ApacheKafka](https://img.shields.io/badge/Tools-ApacheKafka-informational?style=flat&logo=ApacheKafka&logoColor=white&color=2bbc8a)<br>
+![ApacheSpark](https://img.shields.io/badge/Tools-ApacheSpark-informational?style=flat&logo=ApacheSpark&logoColor=white&color=2bbc8a)<br>
 
 
 
