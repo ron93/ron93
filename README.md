@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: ronyagan@gmail.com
 
-  ## 🔧 Tools
+## 🔧 Technologies
 
 ![linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) <br>
 
