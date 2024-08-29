@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 
 -->
 
-- 📫 yaganron@gmail.com
 
 ## 🔧 Technologies
 
